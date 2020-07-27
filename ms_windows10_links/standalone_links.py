@@ -1,3 +1,8 @@
+#welcome to Windows 10 ISO links generator
+#Please setup dependencies first
+#Made by Shivang
+
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
