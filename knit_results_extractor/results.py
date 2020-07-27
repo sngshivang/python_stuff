@@ -1,3 +1,7 @@
+#Please configure dependencies first
+#Configure Chrome Driver or Firefox Driver path
+#Configure Requirements
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 import csv
